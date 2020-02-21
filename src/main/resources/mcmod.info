@@ -1,7 +1,7 @@
 [
 {
   "modid": "supersoundmuffler",
-  "name": "Super Sound Muffler",
+  "name": "Super Sound Muffler: Revived",
   "description": "A block that allows you to select which sounds to muffle.",
   "version": "${version}",
   "mcversion": "${mcversion}",

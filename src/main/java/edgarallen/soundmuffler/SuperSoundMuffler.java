@@ -45,7 +45,7 @@ import java.util.Set;
 @Mod(modid = SuperSoundMuffler.MOD_ID, name = SuperSoundMuffler.NAME, version = SuperSoundMuffler.VERSION, dependencies = SuperSoundMuffler.DEPENDENCIES)
 public class SuperSoundMuffler {
     public static final String MOD_ID = "supersoundmuffler";
-    public static final String NAME = "Super Sound Muffler";
+    public static final String NAME = "Super Sound Muffler: Revived";
     public static final String VERSION = "1.0.2.10";
     public static final String DEPENDENCIES = "after:baubles;after:theoneprobe;after:waila";
 
